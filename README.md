@@ -1,2 +1,3 @@
 # Lipid-Profile-Prediction
-Lipid Profile Prediction Using Artificial Neural Networks
+
+This project is to predict Lipid Profile using clinical and lifelog data with Artificial Neural Networks
